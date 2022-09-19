@@ -1,5 +1,5 @@
 # C13-VM-Outils-de-gestion-et-de-soutien
-L’ensemble de mes laboratoires Word, Markdown et Excel
+## L’ensemble de mes laboratoires Word, Markdown et Excel
 Il doit contenir les informations suivantes : 
 - Le nom du laboratoire
 - Une courte description du laboratoire 
